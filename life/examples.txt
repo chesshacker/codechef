@@ -1,0 +1,13 @@
+Example
+
+Input:
+1
+2
+88
+42
+99
+
+Output:
+1
+2
+88

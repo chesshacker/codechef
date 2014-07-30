@@ -1,0 +1,10 @@
+Example
+
+Input:
+2
+CODECHEF
+DRINKEATCODE
+
+Output:
+2
+5
